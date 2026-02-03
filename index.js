@@ -1,13 +1,13 @@
 let pick = "tea"
 switch (pick){
     case "tea":
-        console.log("I like" + pick)
+        console.log("I like " + pick)
         break;
     case "coffee":
-        console.log("I like" + pick)
+        console.log("I like " + pick)
         break;
     case "juse":
-        console.log("I like" + pick)
+        console.log("I like " + pick)
         break;
 }
 let day = "Friday"
